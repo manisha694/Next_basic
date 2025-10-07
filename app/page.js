@@ -20,9 +20,8 @@ const Home = () => {
                 </li>
             </ul>
         </nav>
-           <h1>
-    Welcome,hello World!
-  </h1>
+      
+    <h1 className="text-3xl text-red-500 underline">Hello</h1>
     </header>
  
   </>
